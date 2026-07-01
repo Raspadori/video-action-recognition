@@ -1,0 +1,4 @@
+dataset/
+*.pth
+*.mp4
+__pycache__/
